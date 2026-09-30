@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./index-D_RTsS8L.js";t();var r=n(),i=()=>(0,r.jsxs)(`div`,{children:[(0,r.jsx)(e,{to:`/`,children:(0,r.jsx)(`button`,{children:`Home`})}),(0,r.jsx)(e,{to:`/about`,children:(0,r.jsx)(`button`,{children:`About`})}),(0,r.jsx)(e,{to:`/contact`,children:(0,r.jsx)(`button`,{children:`Contact`})})]});export{i as t};

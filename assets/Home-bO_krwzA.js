@@ -1,0 +1,1 @@
+import{r as e,t}from"./index-D_RTsS8L.js";import{t as n}from"./Navbar-BAa8FePB.js";e();var r=t(),i=()=>(0,r.jsxs)(`div`,{children:[(0,r.jsx)(n,{}),(0,r.jsx)(`h1`,{children:`Home`})]});export{i as default};
